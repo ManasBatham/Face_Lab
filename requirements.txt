@@ -1,0 +1,7 @@
+flask
+numpy
+pillow
+cmake
+dlib
+face_recognition
+setuptools<81
